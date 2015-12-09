@@ -17,3 +17,23 @@ Un exemple de recherche possible dans l'annuaire :
 La page de connexion à clarilog, l'utilisateur s'authentifie grâce aux mêmes identifiants et mot de passe que sur son poste de travail : 
 ![alt tag](https://cloud.githubusercontent.com/assets/16228964/11700447/2ebe66a2-9eca-11e5-84b3-2d1a65a401ec.jpg)
 
+La page de connexion à ciril :
+![alt tag](https://cloud.githubusercontent.com/assets/16228964/11700447/2ebe66a2-9eca-11e5-84b3-2d1a65a401ec.jpg)
+
+
+La page de réservation de salles :
+![alt tag](https://cloud.githubusercontent.com/assets/16228964/11700447/2ebe66a2-9eca-11e5-84b3-2d1a65a401ec.jpg)
+
+
+Comment réserver une salle :
+![alt tag](https://cloud.githubusercontent.com/assets/16228964/11700447/2ebe66a2-9eca-11e5-84b3-2d1a65a401ec.jpg)
+
+
+La page de dépot de fichier :
+![alt tag](https://cloud.githubusercontent.com/assets/16228964/11700447/2ebe66a2-9eca-11e5-84b3-2d1a65a401ec.jpg)
+
+Les différentes options possibles d'envoi d'un fichier :
+![alt tag](https://cloud.githubusercontent.com/assets/16228964/11700447/2ebe66a2-9eca-11e5-84b3-2d1a65a401ec.jpg)
+
+
+
